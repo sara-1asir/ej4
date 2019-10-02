@@ -1,11 +1,11 @@
 # ej4 Lenguaje de marca
 ejercicio 4 parte 1
-Encabezados
+>Encabezados
 # encabezado
 ## encabezado
 ###### encabezado
 texto
-Lista desordenada
+>Lista desordenada
 * texto
 * texto
   * texto
@@ -16,4 +16,4 @@ Lista desordenada
 1. texto
    1. texto
    1. texto
-   [imagen](Imágenes/Álbumdecámara/descarga.jpg)
+   [imagen](C:\Users\sara_\OneDrive\Imágenes\Álbumdecámara\descarga.jpg)
