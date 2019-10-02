@@ -18,7 +18,7 @@ texto
    1. texto
    1. texto
    
-  ![imagen](C:/Escritorio/1ºASIR/descarga.jpg)
+  ![imagen](Escritorio/1ºASIR/descarga.jpg)
   
 texto | texto
 ----- | -----
