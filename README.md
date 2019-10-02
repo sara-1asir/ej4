@@ -16,4 +16,4 @@ texto
 1. texto
    1. texto
    1. texto
-   [imagen](C:\Users\sara_\OneDrive\Imágenes\Álbumdecámara\descarga.jpg)
+   [imagen](C:/Users/sara_/OneDrive/Imágenes/Álbumdecámara/descarga.jpg)
