@@ -4,6 +4,7 @@ ejercicio 4 parte 1
 # encabezado
 ## encabezado
 ###### encabezado
+
 texto
 >Lista desordenada
 * texto
@@ -16,8 +17,11 @@ texto
 1. texto
    1. texto
    1. texto
+   
    [imagen](Escritorio\1ºASIR\descarga.jpg)
+  
 texto | texto
 ----- | -----
 texto | texto
 texto |texto
+
