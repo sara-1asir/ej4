@@ -18,7 +18,7 @@ texto
    1. texto
    1. texto
    
-  ![imagen](Escritorio\1ºASIR\descarga.jpg)
+  ![imagen](C:\Users\sara_\OneDrive\Escritorio\1ºASIR\descarga.jpg)
   
 texto | texto
 ----- | -----
