@@ -10,10 +10,14 @@ texto
 * texto
   * texto
   * texto
-  Lista oredenada
+ >Lista oredenada
 1. texto
 1. texto
 1. texto
    1. texto
    1. texto
    [imagen](Escritorio\1ºASIR\descarga.jpg)
+texto | texto
+----- | -----
+texto | texto
+texto |texto
