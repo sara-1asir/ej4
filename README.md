@@ -16,4 +16,4 @@ Lista desordenada
 1. texto
    1. texto
    1. texto
-   [imagen](C:\Users\sara_\OneDrive\Imágenes\Álbum de cámara\descarga.jpg)
+   [imagen](Imágenes/Álbumdecámara/descarga.jpg)
