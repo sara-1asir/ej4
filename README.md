@@ -15,7 +15,7 @@ texto
 * texto
   * texto
   * texto
- >Lista oredenada
+ >Lista ordenada
 1. texto
 1. texto
 1. texto
