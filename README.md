@@ -18,7 +18,7 @@ texto
    1. texto
    1. texto
    
-  ![imagen](ej4/descarga.jpg)
+  ![imagen](descarga.jpg)
   
 texto | texto
 ----- | -----
