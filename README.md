@@ -5,6 +5,10 @@ ejercicio 4 parte 1
 ## encabezado
 ###### encabezado
 
+*cursiva*
+
+**negrita**
+
 texto
 >Lista desordenada
 * texto
